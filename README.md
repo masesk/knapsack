@@ -25,7 +25,7 @@ Drop new line and type other weights and profits. Use only ***integers*** Exampl
 ```
 (2) To run on the implementation Java on a user prompt IDE, make sure to save the text file as ***input.txt*** otherwise,
 
-Run ***Knapsack Solver.exe*** and open desired text file in the correct format described in section ***\(1\)***.
+Run ***Knapsack Solver.exe*** and open desired text file in the correct format described in section \(1\).
 
 Enter knapsack capacity in textbox at the top, and press ***Find Knapsack***. Results for list
 ```bash

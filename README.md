@@ -3,7 +3,7 @@
 This program was created to solve knapsack problems.<br>
 ## Features
 
-* The executable solver a knapsack problem based on a text file
+* The executable solves a knapsack problem based on a text file
 * The implementation of the solver is available in the Java files.
 * The Java implementation uses terminal input for knapsack size to also solve the problem.
 
